@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(221,229,232);
+}
+header {
+  padding: 20px;
+  margin-top:10px;
+  margin-bottom:-20px;
+  font-size: 30px;
+}
+a:link {
+  color: black;
+}
+a:visited {
+  color: black;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: white;
+}
+a {
+  padding: 20px;
+}
+.links {
+}
+p {
+  padding: 20px
+}
